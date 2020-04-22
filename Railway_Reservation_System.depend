@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1523944529 source:c:\my personal\my c++ programs\railway_reservation_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"struct.h"
+	"func.h"
+
+1523908485 c:\my personal\my c++ programs\railway_reservation_system\struct.h
+
+1523908556 source:c:\my personal\my c++ programs\railway_reservation_system\booking_func.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1523943498 c:\my personal\my c++ programs\railway_reservation_system\func.h
+
+1524030359 source:c:\users\shashank\downloads\drive-download-20180418t052913z-001\booking_func.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524029681 c:\users\shashank\downloads\drive-download-20180418t052913z-001\struct.h
+
+1524033155 source:c:\users\shashank\downloads\drive-download-20180418t052913z-001\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"struct.h"
+	"func.h"
+
+1524031581 c:\users\shashank\downloads\drive-download-20180418t052913z-001\func.h
+
+1524032211 source:c:\users\shashank\downloads\drive-download-20180418t052913z-001\display_details.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524017378 source:c:\users\my work-place\downloads\drive-download-20180418t052913z-001-20180418t144228z-001\drive-download-20180418t052913z-001\booking_func.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524017378 c:\users\my work-place\downloads\drive-download-20180418t052913z-001-20180418t144228z-001\drive-download-20180418t052913z-001\struct.h
+
+1524017378 source:c:\users\my work-place\downloads\drive-download-20180418t052913z-001-20180418t144228z-001\drive-download-20180418t052913z-001\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"struct.h"
+	"func.h"
+
+1524017378 c:\users\my work-place\downloads\drive-download-20180418t052913z-001-20180418t144228z-001\drive-download-20180418t052913z-001\func.h
+
+1524080968 source:c:\my personal\my c++ programs\railway_reservation_system_new\booking_func.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524080499 c:\my personal\my c++ programs\railway_reservation_system_new\struct.h
+
+1524123024 source:c:\my personal\my c++ programs\railway_reservation_system_new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"struct.h"
+	"func.h"
+
+1524121291 c:\my personal\my c++ programs\railway_reservation_system_new\func.h
+
+1524077616 source:c:\my personal\my c++ programs\railway_reservation_system_new\display_details.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524076028 source:c:\my personal\my c++ programs\railway_reservation_system_new\display_t_details.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524123429 source:c:\my personal\my c++ programs\railway_reservation_system_new\cancel_func.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524082285 source:c:\my personal\my c++ programs\railway_reservation_system_new\check.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524083903 source:c:\my personal\my c++ programs\railway_reservation_system_new\delete.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524080970 source:c:\users\shashank\desktop\railway_reservation_system_new\booking_func.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524080500 c:\users\shashank\desktop\railway_reservation_system_new\struct.h
+
+1524082286 source:c:\users\shashank\desktop\railway_reservation_system_new\check.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524083904 source:c:\users\shashank\desktop\railway_reservation_system_new\delete.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524077618 source:c:\users\shashank\desktop\railway_reservation_system_new\display_details.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524076030 source:c:\users\shashank\desktop\railway_reservation_system_new\display_t_details.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524145938 source:c:\users\shashank\desktop\railway_reservation_system_new\cancel_func.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524144496 source:c:\users\shashank\desktop\railway_reservation_system_new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"struct.h"
+	"func.h"
+
+1524144496 c:\users\shashank\desktop\railway_reservation_system_new\func.h
+
+1524080970 source:c:\users\shashank\desktop\codes\railway_reservation_system_new\booking_func.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524080500 c:\users\shashank\desktop\codes\railway_reservation_system_new\struct.h
+
+1524148264 source:c:\users\shashank\desktop\codes\railway_reservation_system_new\cancel_func.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524082286 source:c:\users\shashank\desktop\codes\railway_reservation_system_new\check.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524083904 source:c:\users\shashank\desktop\codes\railway_reservation_system_new\delete.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524077618 source:c:\users\shashank\desktop\codes\railway_reservation_system_new\display_details.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524076030 source:c:\users\shashank\desktop\codes\railway_reservation_system_new\display_t_details.c
+	"struct.h"
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1524144496 source:c:\users\shashank\desktop\codes\railway_reservation_system_new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"struct.h"
+	"func.h"
+
+1524144496 c:\users\shashank\desktop\codes\railway_reservation_system_new\func.h
+
